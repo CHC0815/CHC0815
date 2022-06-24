@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Project Euler Profile of CHC0815](https://projecteuler.net/profile/CHC0815.png)
+![Project Euler Profile of CHC0815](https://projecteuler.net/profile/CHC0815.png?)
+
 <!--
 **CHC0815/CHC0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
